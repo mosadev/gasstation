@@ -2,5 +2,5 @@
 
 - This project to fulfill the task requirements. 
 
-- The class GasstationImp is the main implementation class.
-However I add Runtime exception to avoid the entrance of negative amounts. and number of test units. 
+- The class GasstationImp is the main implementation.
+Moreover, I add Runtime exception to avoid the entrance of negative amounts. Also, number of test units. 
